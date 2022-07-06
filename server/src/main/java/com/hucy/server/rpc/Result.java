@@ -1,4 +1,4 @@
-package com.huyv.client.rpc;
+package com.hucy.server.rpc;
 
 import lombok.Data;
 
